@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe.config
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.pdb
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Properties.Resources.resources
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.exe
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.pdb
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.LoginPage.resources
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.MainPage.resources
