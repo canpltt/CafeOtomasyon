@@ -13,7 +13,7 @@ namespace CafeOtomasyon
 {
     public partial class LoginPage : Form
     {
-        SqlConnection con = new SqlConnection("Data Source=ALPHA\\SQLEXPRESS; initial catalog=CafeOtomasyon; Integrated Security=TRUE");
+        SqlConnection con = new SqlConnection("Data Source=192.168.1.103,1433;Network Library=DBMSSOCN; initial catalog=CafeOtomasyon; User Id =ADMIN; Password=1;");
         public LoginPage()
         {
             InitializeComponent();
