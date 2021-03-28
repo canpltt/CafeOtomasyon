@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.panel1 = new System.Windows.Forms.Panel();
             this.button5 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -119,6 +120,7 @@
             this.button4.TabIndex = 1;
             this.button4.Text = "Ekle";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // dataGridView1
             // 
@@ -126,6 +128,14 @@
             this.dataGridView1.AllowUserToDeleteRows = false;
             this.dataGridView1.AutoGenerateColumns = false;
             this.dataGridView1.BackgroundColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.isimDataGridViewTextBoxColumn,
@@ -134,9 +144,9 @@
             this.dataGridView1.Location = new System.Drawing.Point(3, 3);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
+            this.dataGridView1.RowHeadersWidth = 50;
             this.dataGridView1.Size = new System.Drawing.Size(613, 844);
             this.dataGridView1.TabIndex = 0;
-            this.dataGridView1.Visible = false;
             // 
             // panel3
             // 
@@ -167,7 +177,7 @@
             this.isimDataGridViewTextBoxColumn.HeaderText = "Ürün Adı";
             this.isimDataGridViewTextBoxColumn.Name = "isimDataGridViewTextBoxColumn";
             this.isimDataGridViewTextBoxColumn.ReadOnly = true;
-            this.isimDataGridViewTextBoxColumn.Width = 300;
+            this.isimDataGridViewTextBoxColumn.Width = 280;
             // 
             // fiyatDataGridViewTextBoxColumn
             // 
@@ -175,7 +185,7 @@
             this.fiyatDataGridViewTextBoxColumn.HeaderText = "Ürün Fiyatı";
             this.fiyatDataGridViewTextBoxColumn.Name = "fiyatDataGridViewTextBoxColumn";
             this.fiyatDataGridViewTextBoxColumn.ReadOnly = true;
-            this.fiyatDataGridViewTextBoxColumn.Width = 300;
+            this.fiyatDataGridViewTextBoxColumn.Width = 280;
             // 
             // DeskPage
             // 
