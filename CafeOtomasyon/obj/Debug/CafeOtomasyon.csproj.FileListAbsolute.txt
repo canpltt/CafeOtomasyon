@@ -8,4 +8,4 @@ C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.c
 C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.exe
 C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.pdb
 C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.LoginPage.resources
-C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.MainPage.resources
+C:\Users\Acer\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.DeskPage.resources

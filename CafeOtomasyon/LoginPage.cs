@@ -56,7 +56,7 @@ namespace CafeOtomasyon
             con.Close();
             if (kayitlimi == true)
             {
-                MainPage main = new MainPage();
+                DeskPage main = new DeskPage();
                 main.Show();
                 this.Hide();
             }
